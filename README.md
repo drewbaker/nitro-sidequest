@@ -1,6 +1,8 @@
 This is a demo of how to use [Sidequest.js](https://sidequestjs.com/) with [Nitro](https://nitro.build/).
 
-# ENV vars
+## ENV vars
+
+Be sure to rename the `.env.example` file. The `NITRO_DB_URL` var should be a Postgres DB connection string.
 
 ## Install & Run
 
