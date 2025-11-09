@@ -1,0 +1,34 @@
+# dependencies
+node_modules
+
+# Build
+dist
+.data
+.nitro
+.cache
+.output
+
+# Env variables
+.env*
+!.env.example
+!.env.production.example
+!.env.staging.example
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# misc
+*.pem
+/temp
+/tmp
+/src/uploads
+.reset.sql
+.uri-notes
+
+# IDE
+.idea
+core
+
+# Test results
+tests/ci-results/
