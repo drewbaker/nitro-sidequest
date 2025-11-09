@@ -1,6 +1,4 @@
-# README
-
-This is a demo of how to use Sidequest.js with Nitro.
+This is a demo of how to use [Sidequest.js](https://sidequestjs.com/) with [Nitro](https://nitro.build/).
 
 # ENV vars
 
